@@ -1,7 +1,7 @@
 import { useRef } from "react";
-import Button from "./components/Button";
-import Form, { FormHandle } from "./components/Form";
-import Input from "./components/Input";
+import Button from "./components/UI/Button";
+import Form, { FormHandle } from "./components/UI/Form";
+import Input from "./components/UI/Input";
 
 function App() {
   const customForm = useRef<FormHandle>(null);
