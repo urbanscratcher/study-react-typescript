@@ -1,6 +1,6 @@
 # 리액트 + 타입스크립트 (React +TS)
 
-- Udemy 강의 노트 정리한 것 (https://www.udemy.com/course/react-typescript-the-practical-guide/)
+- Udemy 강의 요약 & 정리 (https://www.udemy.com/course/react-typescript-the-practical-guide/)
 
 * 타입스크립트 기본
 
